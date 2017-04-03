@@ -4,9 +4,22 @@ Minimal React App with PHP
 
 # Installation
 
-git clone
-npm install
+Clone Repository
 
-webpack --watch
+`git@github.com:seanbehan/react_php_starter.git`
 
-php -S localhost:5000 -t public/
+Install Js Dependencies
+
+`npm install`
+
+Watch Assets
+
+`webpack --watch`
+
+Run PHP Development Server
+
+`php -S localhost:5000 -t public/`
+
+Visit
+
+- http://localhost:5000
